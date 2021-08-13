@@ -1,0 +1,23 @@
+NN:
+accuracy:	0.8230
+precision:	0.7986
+sensitive:	0.8204
+f1:	        0.8094
+
+SVM:
+accuracy:	0.8285
+precision:	0.7981
+sensitive:	0.8420
+f1:	        0.8195
+
+RF:
+accuracy:	0.8958
+precision:	0.9026
+sensitive:	0.8684
+f1:	        0.8851
+
+KNN:
+accuracy:	0.8638
+precision:	0.7987
+sensitive:	0.9432
+f1:	        0.8650
